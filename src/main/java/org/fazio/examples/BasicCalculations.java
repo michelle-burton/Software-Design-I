@@ -12,15 +12,15 @@ public class BasicCalculations {
 
 	public BasicCalculations() {
 		
-		System.out.println(this.counterAndMod());
-
-		System.out.println(this.floatConversion());
-
-		System.out.println(this.intComparison());
-
-		System.out.println(this.doubleCastToInt());
-
-		System.out.println(this.mathRounding());
+//		System.out.println(this.counterAndMod());
+//
+//		System.out.println(this.floatConversion());
+//
+//		System.out.println(this.intComparison());
+//
+//		System.out.println(this.doubleCastToInt());
+//
+//		System.out.println(this.mathRounding());
 	}
 
 	private int counterAndMod() {

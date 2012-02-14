@@ -1,0 +1,9 @@
+This project is to be used as a set of example questions about basic Java functionality.
+
+Currently, the classes contain a Main method, a constructor with some System.out.println(...) calls, and methods.
+The Main method merely calls the constructor.
+The constructor calls the methods in the class, and prints their output.
+Each method contains different statements which return a value in the end.
+
+The best way to use these classes is to go through each piece of code, come up with an answer, then run the methods
+one by one to make sure your answers are correct.

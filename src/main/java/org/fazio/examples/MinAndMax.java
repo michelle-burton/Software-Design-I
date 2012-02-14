@@ -10,10 +10,10 @@ public class MinAndMax {
 
 	public MinAndMax() {
 
-		System.out.println(minMaxA());
-		System.out.println(minMaxB());
-		System.out.println(minMaxC());
-		System.out.println(minMaxD());
+//		System.out.println(minMaxA());
+//		System.out.println(minMaxB());
+//		System.out.println(minMaxC());
+//		System.out.println(minMaxD());
 
 	}
 	
